@@ -1,0 +1,11 @@
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\bin\Debug\Cruz-DB.exe.config
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\bin\Debug\Cruz-DB.exe
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\bin\Debug\Cruz-DB.pdb
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz_DB.Properties.Resources.resources
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz-DB.csproj.GenerateResource.cache
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz-DB.csproj.CoreCompileInputs.cache
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz-DB.exe
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz-DB.pdb
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz_DB.frmClubRegistration.resources
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz_DB.frmUpdateMembers.resources
+C:\Users\LINDELL\source\repos\Cruz-DB\Cruz-DB\obj\Debug\Cruz-DB.csproj.AssemblyReference.cache
