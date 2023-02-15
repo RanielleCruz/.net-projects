@@ -1,0 +1,30 @@
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Form1.resources
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\LINDELL\Desktop\System 32\Event Driven Prog\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+E:\Event Driven\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+E:\Event Driven\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+E:\Event Driven\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Form1.resources
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+E:\Event Driven\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Form1.resources
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\LINDELL\Desktop\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
